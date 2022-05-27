@@ -1,0 +1,66 @@
+
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: #f0f8ff;
+}
+a:link{
+    color: #696969;
+}
+a:visited {
+    color: gray;
+}
+.header{
+    width: 100%;
+    margin-bottom: 10%;
+}
+nav{
+    height: 10%;
+    padding: 20px 5%;
+}
+.logo{
+    margin-right: auto;
+}
+section{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+.tablaindex{
+    margin: auto;
+}
+.nav_links li{
+    display: inline-block;
+    padding: 15px;
+    font-size: medium;
+}
+.nav_links{
+    margin: auto;
+    text-align: center;
+}
+.fuentetabla{
+    font-family: "Arial Black";
+}
+.tablafaq{
+    margin: auto;
+    padding-top: 50px;
+
+}
+.horario{
+    background-color: darkgrey;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    height: 55%;
+    box-shadow: 2px 2px 5px #999;
+}
+.mapa{
+    text-align: center;
+
+}
